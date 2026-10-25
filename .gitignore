@@ -1,0 +1,8 @@
+*.~*
+History/
+*.PriorSch
+*.PriorPcb
+Project Logs*/
+__Previews/
+*.DcpLog
+

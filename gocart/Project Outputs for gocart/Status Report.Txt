@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [gocart.PrjPcb]
+   Generated File[gocart.TXT]
+   Generated File[gocart.LDP]
+   Generated File[gocart.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:01:05 am On 9/09/2026

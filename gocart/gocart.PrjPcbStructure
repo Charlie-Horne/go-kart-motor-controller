@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=accelerator.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=accelerator.SchDoc|FileName=brake_circuit.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=accelerator.SchDoc|FileName=current_mode_controller.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=accelerator.SchDoc|FileName=headers.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=accelerator.SchDoc|FileName=i_sense.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=accelerator.SchDoc|FileName=pwm_inverter.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=accelerator.SchDoc|FileName=test_points.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=accelerator.SchDoc|FileName=volt_regulators.SchDoc|SheetNumber=2
